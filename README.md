@@ -1,1 +1,1 @@
-# dashboard_modernization_Shiny
+# Dashboard modernization project - Shiny application
